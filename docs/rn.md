@@ -1,1 +1,1 @@
-
+# Regras de Negócio (RN)
