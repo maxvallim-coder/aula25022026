@@ -2,7 +2,7 @@
 name: Requisitos Funcionais (RF)
 about: Documento de requisitos funcionais consolidado
 title: "Documento de Requisitos Funcionais (RF)"
-labels: ["rf"]
+labels: ["requisitos"]
 ---
 
 # Documento de Requisitos Funcionais (RF)
