@@ -9,4 +9,4 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 ## RF03 — Atualização de perfil
 O usuário pode alterar nome, foto e dados pessoais.
 
-## RF04 - Assim por diante...
+## RF04 - NOVO REQUISITO FUNCIONAL
